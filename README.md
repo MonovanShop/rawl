@@ -112,7 +112,7 @@ npm start
 
 - Canal Oficial Del Bot
 
-* <a href="https://chat.whatsapp.com/IkmoGgRSDi46dOTiH1EF74"><img alt="Group" src="https://img.shields.io/badge/Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+* <a href="https://chat.whatsapp.com/FXhHi3CURVdAhqXFKp64vT"><img alt="Group" src="https://img.shields.io/badge/Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 ---------
 
 ## `Colaboradores` 
@@ -124,6 +124,6 @@ href="https://github.com/Jxtxn17"><img src="https://github.com/Jxtxn17.png" widt
 <div align="center">
   <h1 align="center">Editor y Propietario del Bot</h1>
 
-<a href="https://github.com/DanielDiod"><img src="https://github.com/DanielDiod.png" width="300" height="300" alt="Anthony Ventas"/></a>
+<a href="https://chat.whatsapp.com/FXhHi3CURVdAhqXFKp64vT"><img src="https://github.com/DanielDiod.png" width="300" height="300" alt="Anthony Ventas"/></a>
 
 `© CapiPremium - Bot / By Anthony Ventas`
