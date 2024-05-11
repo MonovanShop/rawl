@@ -1,62 +1,129 @@
-> <b>🚀 VERSIÓN 1.7.0</b>
-
-<p align="center"> 
-<a href="https://github.com/GataNina-Li"><img src="http://readme-typing-svg.herokuapp.com?font=mono&size=17&duration=4000&color=F7B11B&center=falso&vCenter=falso&lines=GataBot-MD++%F0%9F%90%88;Gracias+por+visitar+este+repositorio.+%F0%9F%92%96" height="90px"></a> 
+<h1 align="center">‧ CAPI-BOT-PREMIUM  ‧
 </p>
+<p>
+        <img src= "https://th.bing.com/th/id/OIP.0v_km7Sfpxh_VrPCE82_sQHaDt?rs=1&pid=ImgDetMain">
+    </p>
+    <p align="center">
+        <a href="#"><img title="Un Bot Premium" src="https://img.shields.io/badge/-CAPI--PREMIUM-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+    </p>
+    <p>
+        <a href="https://github.com/anthony2303"><img title="Author"    src="https://img.shields.io/badge/Author-Anthony Ventas-purple.svg?style=for-the-badge&logo=github"></a>
+    </p>
+    <p>
+        
 
-<p align="center">
-<img src="https://i.imgur.com/WwxBm8o.jpg" alt="GataBot-MD" width="900"/>
-</p>
 
-<p align="center">
-<a href="#"><img title="GataBot-MD" src="https://img.shields.io/badge/SI TE AGRADA EL REPOSITORIO APOYAME CON UNA 🌟 ¡GRACIAS! -red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a> 
-<img src="https://i.pinimg.com/originals/d4/3c/90/d43c902873d4db8c85974dfd0798030b.gif" height="28px">
-</p>  
+---------
 
-<p align="center">
-<a href="#"><img title="GataBot-MD" src="https://img.shields.io/badge/LEA TODO EL README-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge"></a> 
-<a href="#"><img title="GataBot-MD" src="https://img.shields.io/badge/COMPATIBLE CON LA VERSIÓN MULTI DISPOSITIVOS DE WHATSAPP-red?colorA=%F77F48FF&colorB=%F77F48FF&style=for-the-badge"></a>
-</p>
+## <img src="https://i0.wp.com/i230.photobucket.com/albums/ee124/joaclint/joaclint_istgud/ruedas.gif" alt="Herramientas" width="35" height="35"> Herramientas
 
-<p align="center">   
-<a href="https://github.com/GataNina-Li/GataBot-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/GataNina-Li/GataBot-MD?label=Forks&color=blue&style=flat-square"></a>
-<a href="https://github.com/GataNina-Li/GataBot-MD/watchers"><img title="Watchers" src="https://img.shields.io/github/watchers/GataNina-Li/GataBot-MD?label=Watchers&color=green&style=flat-square"></a>
-<a href="https://github.com/GataNina-Li/GataBot-MD/stargazers"><img title="Stars" src="https://img.shields.io/github/stars/GataNina-Li/GataBot-MD?label=Stars&color=yellow&style=flat-square"></a>
-</p>
+```bash
+> Termux
+> WhatsApp
+> 2 celulares o PC
+```
+- Descarga termux dando clic [aqui](https://f-droid.org/repo/com.termux_118.apk)
 
+---------
+
+## <img src="https://i.giphy.com/media/nWGRHBnAl5Kmc/giphy.gif" alt="Instalacion" width="40" height="40"> Instalación en [termux](https://f-droid.org/repo/com.termux_118.apk)
+
+```bash
+cd && termux-setup-storage
+```
+
+```bash
+apt-get update -y && apt-get upgrade -y
+```
+
+```bash
+pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn 
+```
+
+```bash
+git clone https://github.com/DanielDiod/DokiBot.git && cd DokiBot
+```
+
+```bash
+yarn install
+```
+
+```bash
+npm install
+```
+
+```bash
+npm update
+```
+
+```bash
+npm start
+```
+
+- Después de eso te aparecerά un código **QR** lo escaneas con el Whatsapp web y listo
+
+---------
+### `𝐎𝐁𝐓𝐄𝐍𝐄𝐑 𝐎𝐓𝐑𝐎 𝐂𝐎𝐃𝐈𝐆𝐎 𝐐𝐑 👀
+```bash
+𝐄𝐒𝐂𝐑𝐈𝐁𝐄 𝐋𝐎𝐒 𝐒𝐈𝐆𝐔𝐈𝐄𝐍𝐓𝐄𝐒 𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐔𝐍𝐎 𝐏𝐎𝐑 𝐔𝐍𝐎:
+> cd 
+> cd DokiBot 
+> rm -rf ShanaBot
+> npm start
+```
+-------
+### `𝐀𝐂𝐓𝐈𝐕𝐀𝐑 𝐄𝐍 𝐂𝐀𝐒𝐎 𝐃𝐄 𝐃𝐄𝐓𝐄𝐍𝐄𝐑𝐒𝐄 🧿`
+```bash
+𝐄𝐒𝐂𝐑𝐈𝐁𝐄 𝐋𝐎𝐒 𝐒𝐈𝐆𝐔𝐈𝐄𝐍𝐓𝐄𝐒 𝐂𝐎𝐌𝐀𝐍𝐃𝐎𝐒 𝐔𝐍𝐎 𝐏𝐎𝐑 𝐔𝐍𝐎:
+> cd 
+> cd DokiBot
+> npm start
+```
+-------
+
+## <img src="https://i.pinimg.com/originals/73/69/6e/73696e022df7cd5cb3d999c6875361dd.gif" alt="Características" width="42" height="42"> Características
+
+> Bot en creación pronto se agregaran más cosas 
+
+- [x] Interacción con voz y texto
+- [x] Configuración de grupo
+- [x] antidelete, antilink, antispam, etc
+- [x] Bienvenida personalizada
+- [x] Juegos, tictactoe, mate, etc
+- [x] Chatbot (simsimi)
+- [x] Crear sticker de image/video/gif/url
+- [x] SubBot (Jadibot)
+- [ ] Juego RPG
+- [x] Descarga de música y video de YT
+- [ ] Otros
+
+---------
+
+## <img src="https://i.pinimg.com/originals/19/80/6e/19806e91932e6054965fc83b85241270.gif" alt="Contacto" width="42" height="42"> Contacto
+
+- Si tiene algún problema la bot contactame ฅ^•ﻌ•^ฅ
+
+* <a href="https://wa.me/525625060788"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
+---------
+
+## <img src="https://static.wikia.nocookie.net/nyancat/images/d/d3/Nyan-cat.gif/revision/latest/scale-to-width-down/400?cb=20131231222500&path-prefix=es" alt="Grupo" width="45" height="43"> Grupo de WhatsApp
+
+
+- Canal Oficial Del Bot
+
+* <a href="https://chat.whatsapp.com/IkmoGgRSDi46dOTiH1EF74"><img alt="Group" src="https://img.shields.io/badge/Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+---------
+
+## `Colaboradores` 
+<a href="https://github.com/Sopiix"><img src="https://github.com/Sopiix.png" width="200" height="200" alt="Sopi<3"/></a>
+<a
+href="https://github.com/Jxtxn17"><img src="https://github.com/Jxtxn17.png" width="200" height="200" alt="Jxtxn17"/></a>
+
+---------
 <div align="center">
-<a href="mailto:centergatabot@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-</a>
-<a href="https://facebook.com/groups/872989990425789/">
-<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
-</a>
-<a href="https://www.youtube.com/@gatadios">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
-</a>
-<a href="https://instagram.com/gata_dios">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href="https://paypal.me/OficialGD">
-<img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white">
-</a>
-</div>
+  <h1 align="center">Editor y Propietario del Bot</h1>
 
-### Cuentas Oficiales:
-> Al acceder a la plataforma, obtendrás acceso a todos los enlaces oficiales de GataBot. Además, te mantendremos informado con boletines y mensajes exclusivos sobre las últimas novedades. La página se actualiza constantemente para ofrecerte la información más relevante. ¡No te pierdas ninguna actualización y únete a nuestra comunidad ahora mismo!
+<a href="https://github.com/DanielDiod"><img src="https://github.com/DanielDiod.png" width="300" height="300" alt="Anthony Ventas"/></a>
 
-<a href="https://www.atom.bio/gatabot/">
-<img src="https://img.shields.io/badge/GataBot_Accounts-000000%7D?style=for-the-badge&logo=biolink&logoColor=white">
-</a>
-
-### 🌟 CREADORA 
-[![GataNina-Li](https://github.com/GataNina-Li.png?size=100)](https://github.com/GataNina-Li) 
-
-### 🌟 DESARROLLADORES
-<a href="https://github.com/GataNina-Li/GataBot-MD/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=GataNina-Li/GataBot-MD" /> 
-</a>
-
-### 🌟 AGRADECIMIENTOS
-[![TheShadowBrokers1](https://github.com/BrunoSobrino.png?size=60)](https://github.com/BrunoSobrino) 
-
+`© CapiPremium - Bot / By Anthony Ventas`
