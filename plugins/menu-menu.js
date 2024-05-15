@@ -106,10 +106,10 @@ let menu = `${lenguajeGB['smsConfi2']()} *${user.genero === 0 ? '👤' : user.ge
 
 ⊜ *Experiencia ➟* ${exp} ⚡
 ⊜ *Diamantes ➟* ${limit} 💎
-⊜ *MichiCoins ➟* ${money} 🐈
+⊜ *𝑴𝑶𝑵𝑲𝑬𝒀𝑪𝑶𝑰𝑵𝑺 ➟* ${money} 🐈
 ⊜ *Tokens ➟* ${joincount} 🪙
 ${readMore}
-*╭━〔 INFORMACIÓN DE MICHIBOT 〕⬣*
+*╭━〔 INFORMACIÓN DE 𝑴𝑶𝑵𝑲𝑬𝒀 〕⬣*
 ┃💫➺ _${usedPrefix}cuentas_
 ┃💫➺ _${usedPrefix}grupos_
 ┃💫➺ _${usedPrefix}donar | donate_
@@ -165,7 +165,7 @@ ${readMore}
 *╰━━━━━━━━━━━━⬣*
 
 *╭━〔 ÚNETE AL GRUPO 〕━⬣*
-┃ *Une a MichiBot en Grupos!!*
+┃ *Une a 𝑴𝑶𝑵𝑲𝑬𝒀 en Grupos!!*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃🪅 _${usedPrefix}addbot *enlace* *cantidad*_
 *╰━━━━━━━━━━━━⬣*
@@ -225,7 +225,7 @@ ${readMore}
 
 *╭━〔 IA 〕━⬣*
 ┃ *Tienes la Ocasión de*
-┃ *Conversar con MichiBot!!*
+┃ *Conversar con 𝑴𝑶𝑵𝑲𝑬𝒀!!*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃🪄➺ _${usedPrefix}simi | okgoogle *texto*_
 ┃🪄➺ _${usedPrefix}alexa | siri | cortana *texto*_
@@ -316,7 +316,7 @@ ${readMore}
 *╰━━━━━━━━━━━━⬣*
 
 *╭━[ CONFIGURACIÓN - GRUPOS ]━⬣*
-┃ *Mejora tú Grupo con MichiBot!!*
+┃ *Mejora tú Grupo con 𝑴𝑶𝑵𝑲𝑬𝒀!!*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃🌐➺ _${usedPrefix}add *numero*_
 ┃🌐➺ _${usedPrefix}sacar | ban | kick  *@tag*_
@@ -562,7 +562,7 @@ ${readMore}
 ┃⚗️➺ _${usedPrefix}trabajar | work_
 *╰━━━━━━━━━━━━⬣*
 
-*╭━━━[ TOP EN MICHIBOT ]━━⬣*
+*╭━━━[ TOP EN 𝑴𝑶𝑵𝑲𝑬𝒀 ]━━⬣*
 ┃ *Averigua en que Top te encuentras!!*
 ┃┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
 ┃🏆➺ _${usedPrefix}top | lb | leaderboard_
