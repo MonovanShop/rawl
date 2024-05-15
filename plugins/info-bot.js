@@ -8,7 +8,7 @@ let bot = `${pickRandom([`*¡𝑬𝒚! 𝑨𝒒𝒖í 𝒆𝒔𝒕𝒐𝒚. 𝒀
 `.trim()
 const estilo = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(m.chat ? { remoteJid: "56945086055-1625305606@g.us" } : {}) },
 message: { 
-orderMessage: { itemCount : -999999, status: 1, surface : 1, message: 'MichiBot', orderTitle: 'Bang', thumbnail: fs.readFileSync('./media/menus/Menu3.jpg'), sellerJid: '0@s.whatsapp.net'    
+orderMessage: { itemCount : -999999, status: 1, surface : 1, message: 'MonkeyBot', orderTitle: 'Bang', thumbnail: fs.readFileSync('./media/menus/Menu3.jpg'), sellerJid: '0@s.whatsapp.net'    
 }}}
 const estiloaudio = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(m.chat ? { remoteJid: "56945086055-1625305606@g.us" } : {}) },
 message: { 
