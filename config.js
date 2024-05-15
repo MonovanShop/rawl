@@ -11,13 +11,13 @@ import { en, es, id, ar, pt, fr, hi } from "./lib/idiomas/total-idiomas.js"
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 
 global.owner = [
-["56941827124", 'Richetti', true], //Richetti
-["51966254634"], 
-["56945086055"], 
-["56945086055"], 
-["56945086055"],
-["56945086055"],
-["56945086055"]]
+["5215625775955", 'Richetti', true], //Richetti
+["5215625775955"], 
+["5215625775955"], 
+["5215625775955"], 
+["5215625775955"],
+["5217298724948"],
+["5215625768269"]]
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -27,14 +27,14 @@ global.botNumberCode = "" //Ejemplo: +59309090909
 global.confirmCode = ""
 
 global.mods = []
-global.prems = ["56945086055"]
+global.prems = ["5215625775955"]
 //key de violetics
 global.Key360 = ["964f-0c75-7afc"]
    
   
 //⊱ ━━━━━.⋅ IDIOMA : LENGUAJE ⋅.━━━━ ⊰ 
 //Agrega el Idioma que quieres que tenga MonkeyBot
-//Add the language you want GataBot-MD to have
+//Add the language you want MonkeyBot to have
 //  es = Español         id = Bahasa Indonesia
 //  en = English         pt = Português 
 //  ar = عرب             hi = Hindi Language
@@ -57,7 +57,7 @@ global.keysxteammm = ["29d4b59a4aa687ca", "5LTV57azwaid7dXfz5fzJu", "cb15ed422c7
 global.keysxteam = keysxteammm[Math.floor(keysxteammm.length * Math.random())]
 global.keysneoxrrr = ["5VC9rvNx", "cfALv5"]
 global.keysneoxr = keysneoxrrr[Math.floor(keysneoxrrr.length * Math.random())]
-global.lolkeysapi = "GataDios"
+global.lolkeysapi = "Monkey Bot"
 global.itsrose = ["4b146102c4d500809da9d1ff"]
 global.baileys = "@whiskeysockets/baileys"
 
@@ -103,11 +103,11 @@ global.moment = moment
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.official = [ // Agregate si eres Owner
-["56945086055", 'MonkeyBot', 1], 
-["56945086055", 'MonkeyBot', 1],  
-["56945086055", 'MonkeyBot', 1],
-["56945086055", 'MonkeyBot', 1],
-["56945086055", 'MonkeyBot', 1]]
+["5215625775955", 'MonkeyBot', 1], 
+["5215625775955", 'MonkeyBot', 1],  
+["5215625775955", 'MonkeyBot', 1],
+["5217298724948", 'MonkeyBot', 1],
+["5215625768269", 'MonkeyBot', 1]]
 
 global.mail = '' //agrega tú correo
 global.desc = 'MonkeyBot el mejor bot de whatsapp' //agrega una descripción corta
