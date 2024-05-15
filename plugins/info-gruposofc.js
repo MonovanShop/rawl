@@ -17,7 +17,7 @@ let str = `💕 𝘽𝙄𝙀𝙉𝙑𝙀𝙉𝙄𝘿𝙊(𝘼) 𝘼 𝙇𝙊𝙎
 🐈 *${nna}*\n
 ┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈`
 await conn.sendFile(m.chat, media, 'gata.mp4', str, fkontak)}
-/*conn.sendHydrated(m.chat, str, `𝘼𝙎𝙄𝙎𝙏𝙀𝙉𝘾𝙄𝘼\n${asistencia}\n\n` + wm, media, 'https://www.instagram.com/ceogeripium.dzn', 'MonkeyBot', null, null, [
+/*conn.sendHydrated(m.chat, str, `𝘼𝙎𝙄𝙎𝙏𝙀𝙉𝘾𝙄𝘼\n${asistencia}\n\n` + wm, media, 'https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb', 'MonkeyBot', null, null, [
 ['𝘾𝙪𝙚𝙣𝙩𝙖𝙨 𝙊𝙛𝙞𝙘𝙞𝙖𝙡𝙚𝙨 | 𝘼𝙘𝙘𝙤𝙪𝙣𝙩𝙨 ✅', '.cuentasgb'],
 ['🎁 𝘿𝙤𝙣𝙖𝙧 | 𝘿𝙤𝙣𝙖𝙩𝙚', '.donar'],
 ['𝙑𝙤𝙡𝙫𝙚𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪́ | 𝘽𝙖𝙘𝙠 𝙩𝙤 𝙈𝙚𝙣𝙪 ☘️', '/menu']
