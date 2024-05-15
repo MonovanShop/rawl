@@ -19,8 +19,8 @@ let caption = `${eg}
 ┃ ${mime}`.trim()
 conn.reply(m.chat, caption, m, {
 contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, 
-title: 'MichiBot',
-body: 'MichiBot',         
+title: 'MonkeyBot',
+body: 'MonkeyBot',         
 previewType: 0, thumbnail: fs.readFileSync("./media/menus/Menu3.jpg"),
 sourceUrl: `https://www.instagram.com/ceogeripium.dzn`}}})
    await conn.sendFile(m.chat, link, name, '', m, null, { mimetype: mime, asDocument: true })
