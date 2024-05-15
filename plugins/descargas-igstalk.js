@@ -2,7 +2,7 @@ import axios from 'axios'
 import cheerio from 'cheerio'
 import fetch from 'node-fetch'
 let handler = async (m, { conn, args, usedPrefix, command }) => {
-if (!args[0]) throw `${lenguajeGB['smsAvisoMG']()}𝙄𝙉𝙂𝙍𝙀𝙎𝙀 𝙀𝙇 𝙐𝙎𝙐𝘼𝙍𝙄𝙊 𝘿𝙀 𝘼𝙇𝙂𝙐𝙄𝙀𝙉 𝘿𝙀 𝙄𝙉𝙎𝙏𝘼𝙂𝙍𝘼𝙈\n𝙀𝙅𝙀𝙈𝙋𝙇𝙊\n*${usedPrefix + command} ceogeripium.dzn*\n\n𝙀𝙉𝙏𝙀𝙍 𝙄𝙉𝙎𝙏𝘼𝙂𝙍𝘼𝙈 𝙐𝙎𝙀𝙍𝙉𝘼𝙈𝙀\n𝙀𝙓𝘼𝙈𝙋𝙇𝙀\n*${usedPrefix + command} ceogeripium.dzn*`
+if (!args[0]) throw `${lenguajeGB['smsAvisoMG']()}𝙄𝙉𝙂𝙍𝙀𝙎𝙀 𝙀𝙇 𝙐𝙎𝙐𝘼𝙍𝙄𝙊 𝘿𝙀 𝘼𝙇𝙂𝙐𝙄𝙀𝙉 𝘿𝙀 𝙄𝙉𝙎𝙏𝘼𝙂𝙍𝘼𝙈\n𝙀𝙅𝙀𝙈𝙋𝙇𝙊\n*${usedPrefix + command} monkey_bot*\n\n𝙀𝙉𝙏𝙀𝙍 𝙄𝙉𝙎𝙏𝘼𝙂𝙍𝘼𝙈 𝙐𝙎𝙀𝙍𝙉𝘼𝙈𝙀\n𝙀𝙓𝘼𝙈𝙋𝙇𝙀\n*${usedPrefix + command} ceogeripium.dzn*`
 const {key} = await conn.sendMessage(m, {text: wait})
 await conn.sendMessage(m, {text: waitt, edit: key})
 await conn.sendMessage(m, {text: waittt, edit: key})
@@ -41,7 +41,7 @@ contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: nul
 title: '𝑴𝑶𝑵𝑲𝑬𝒀',
 body: '𝑴𝑶𝑵𝑲𝑬𝒀',         
 previewType: 0, thumbnail: fs.readFileSync("./media/menus/Menu3.jpg"),
-sourceUrl: `https://www.instagram.com/ceogeripium.dzn`}}})}
+sourceUrl: `https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb`}}})}
 handler.help = ['igstalk'].map(v => v + ' <username>')
 handler.tags = ['downloader']
 handler.command = /^(igstalk|verig|igver)$/i
@@ -70,7 +70,7 @@ resolve(result)})})}
 /*import { instagramStalk } from '@bochilteam/scraper'
 
 let handler= async (m, { args, usedPrefix, command }) => {
-if (!args[0]) throw `${lenguajeGB['smsAvisoMG']()}𝙄𝙉𝙂𝙍𝙀𝙎𝙀 𝙀𝙇 𝙐𝙎𝙐𝘼𝙍𝙄𝙊 𝘿𝙀 𝘼𝙇𝙂𝙐𝙄𝙀𝙉 𝘿𝙀 𝙄𝙉𝙎𝙏𝘼𝙂𝙍𝘼𝙈\n𝙀𝙅𝙀𝙈𝙋𝙇𝙊\n*${usedPrefix + command} ceogeripium.dzn*\n\n𝙀𝙉𝙏𝙀𝙍 𝙄𝙉𝙎𝙏𝘼𝙂𝙍𝘼𝙈 𝙐𝙎𝙀𝙍𝙉𝘼𝙈𝙀\n𝙀𝙓𝘼𝙈𝙋𝙇𝙀\n*${usedPrefix + command} ceogeripium.dzn*`
+if (!args[0]) throw `${lenguajeGB['smsAvisoMG']()}𝙄𝙉𝙂𝙍𝙀𝙎𝙀 𝙀𝙇 𝙐𝙎𝙐𝘼𝙍𝙄𝙊 𝘿𝙀 𝘼𝙇𝙂𝙐𝙄𝙀𝙉 𝘿𝙀 𝙄𝙉𝙎𝙏𝘼𝙂𝙍𝘼𝙈\n𝙀𝙅𝙀𝙈𝙋𝙇𝙊\n*${usedPrefix + command} monkey_bot*\n\n𝙀𝙉𝙏𝙀𝙍 𝙄𝙉𝙎𝙏𝘼𝙂𝙍𝘼𝙈 𝙐𝙎𝙀𝙍𝙉𝘼𝙈𝙀\n𝙀𝙓𝘼𝙈𝙋𝙇𝙀\n*${usedPrefix + command} ceogeripium.dzn*`
 const {
 username,
 name,
