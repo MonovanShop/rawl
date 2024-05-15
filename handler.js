@@ -1295,7 +1295,7 @@ if (m.limit)
 m.reply(+m.limit + lenguajeGB.smsCont8())
 }
 if (m.money)
-m.reply(+m.money + 'MichiCoins Usados')  
+m.reply(+m.money + 'MonkeyCoins Usados')  
 break
 }}} catch (e) {
 console.error(e)
