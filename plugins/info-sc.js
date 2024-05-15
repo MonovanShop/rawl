@@ -43,7 +43,7 @@ token: '9',
 curreyCode: 'IDR',
 totalCurrencyCode: '>〰<',
 totalAmount1000: '1000000',
-sellerJid: 'https://www.instagram.com/ceogeripium.dzn',
+sellerJid: 'https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb',
 thumbnail: fs.readFileSync('./src/avatar_contact.png')
 }}, {contextInfo: null, quoted: m})
 conn.relayWAMessage(prep)
