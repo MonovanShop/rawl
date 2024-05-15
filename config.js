@@ -123,26 +123,26 @@ global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
 
 global.gt = "MonkeyBot"
-global.yt = "https://www.instagram.com/ceogeripium.dzn"
-global.yt2 = "https://www.instagram.com/ceogeripium.dzn"
-global.ig = "https://www.instagram.com/ceogeripium.dzn"
-global.md = "https://www.instagram.com/ceogeripium.dzn"
-global.fb = "https://www.instagram.com/ceogeripium.dzn"
+global.yt = "https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb"
+global.yt2 = "https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb"
+global.ig = "https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb"
+global.md = "https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb"
+global.fb = "https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb"
 
-global.nna = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //CANAL UPDATE
-global.nn2 = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //UPDATE
-global.nna2 = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //Help
-global.nn = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //Grupo 1
-global.nnn = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //Grupo 3
-global.nnntt = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //Grupo 4
-global.nnnttt = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //Grupo 5
-global.nnnttt1 = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR'; //Grupo 6 COL
-global.nnnttt2 = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //Grupo 7 COL
-global.nnnttt3 = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //Grupo 8 COL
-global.nnnttt4 = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //Grupo 9 COL
-global.nnnttt5 = 'https://chat.whatsapp.com/IeKdVd3cPQt34jI7iqT4OR' //A.T.M.M
-global.paypal = 'https://paypal.me/OficialGD'
+global.nna = 'https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb' //CANAL UPDATE
+global.nn2 = 'https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb' //UPDATE
+global.nna2 = 'https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb' //Help
+global.nn = 'https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb' //Grupo 1
+global.nnn = 'https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb' //Grupo 2
+global.nnnt = 'https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb' //Grupo 3
+global.nnntt = 'https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb' //Grupo 4
+global.nnnttt = 'https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb' //Grupo 5
+global.nnnttt1 = 'https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb'; //Grupo 6 COL
+global.nnnttt2 = 'https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb' //Grupo 7 COL
+global.nnnttt3 = 'https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb' //Grupo 8 COL
+global.nnnttt4 = 'https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb' //Grupo 9 COL
+global.nnnttt5 = 'https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb' //A.T.M.M
+global.paypal = 'https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb'
 global.asistencia = 'Wa.me/56945086055' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
