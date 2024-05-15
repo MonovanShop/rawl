@@ -1406,7 +1406,7 @@ mentionedJid:[user],
 "showAdAttribution": true,
 "renderLargerThumbnail": true,
 "thumbnail": apii.data, 
-"title": [wm, '😻 𝗦𝘂𝗽𝗲𝗿 ' + gt + ' 😻', 'https://www.instagram.com/ceogeripium.dzn'].getRandom(),
+"title": [wm, '😻 𝗦𝘂𝗽𝗲𝗿 ' + gt + ' 😻', 'https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb'].getRandom(),
 "containsAutoReply": true,
 "mediaType": 1, 
 sourceUrl: [md, nna, nn2, yt, ig, paypal, fb].getRandom()}}}, { quoted: fkontak2 })
