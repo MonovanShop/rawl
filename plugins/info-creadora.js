@@ -1,8 +1,8 @@
 var handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 let fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status@broadcast", "fromMe": false, "id": "Halo" }, "message": { "contactMessage": { "vcard": `BEGIN:VCARD\nVERSION:3.0\nN:Sy;Bot;;;\nFN:y\nitem1.TEL;waid=${m.sender.split('@')[0]}:${m.sender.split('@')[0]}\nitem1.X-ABLabel:Ponsel\nEND:VCARD` }}, "participant": "0@s.whatsapp.net" }
 let pp = gataImg.getRandom()	
-const cat = `*𝙄𝙂*
-*https://www.instagram.com/ceogeripium.dzn*
+const cat = `*GRUPO DE WPP*
+*https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb*
 
 𝙄𝙂
 *${asistencia}*`
@@ -28,7 +28,7 @@ let fkontak = { "key": { "participants":"0@s.whatsapp.net", "remoteJid": "status
 
 //------- Nombre
   let nowner = `${wm.split`@`[0]}@s.whatsapp.net`
-  let insta = `https://www.instagram.com/ceogeripium.dzn`
+  let insta = `https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb`
   let teksnomor = `
 • @${wm.split`@`[0]} •
 ------- ${wm} -------
@@ -37,7 +37,7 @@ conn.reply(m.chat, 'Mario.js', fkontak,  m)
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => imagen1[1]) 
 let teksbio = `*𝙄𝙂*
-*https://www.instagram.com/ceogeripium.dzn*
+*https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb*
 
 𝙄𝙂
 *${asistencia}*`
