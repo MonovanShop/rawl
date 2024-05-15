@@ -9,7 +9,7 @@ title: 'MonkeyBot',
 body: 'MonkeyBot',         
 previewType: 0, thumbnail: fs.readFileSync("./media/menus/Menu3.jpg"),
 sourceUrl: `https://www.instagram.com/ceogeripium.dzn`}}})
-/*conn.sendHydrated(m.chat, info, wm, null, md, 'MichiBot', null, null, [
+/*conn.sendHydrated(m.chat, info, wm, null, md, 'MonkeyBot', null, null, [
 ['𝙈𝙚𝙣𝙪 𝘿𝙚𝙨𝙘𝙖𝙧𝙜𝙖𝙨 🌀', '#descargasmenu'],
 ['𝙈𝙚𝙣𝙪 𝘾𝙤𝙢𝙥𝙡𝙚𝙩𝙤 | 𝙁𝙪𝙡𝙡 𝙈𝙚𝙣𝙪 ✨', '.allmenu'],
 ['𝙑𝙤𝙡𝙫𝙚𝙧 𝙖𝙡 𝙈𝙚𝙣𝙪́ | 𝘽𝙖𝙘𝙠 𝙩𝙤 𝙈𝙚𝙣𝙪 ☘️', '/menu']
