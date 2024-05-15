@@ -31,8 +31,8 @@ let info = `𝙀𝙉𝘾𝙊𝙉𝙏𝙍𝙀 𝙀𝙎𝙏𝙊 | 𝙄 𝙁𝙊�
   
     conn.reply(m.chat, `${info} `, m, {
      contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: null, 
-      title: 'MichiBot',
-       body: 'MichiBot',         
+      title: 'MonkeyBot',
+       body: 'MonkeyBot',         
         previewType: 0, thumbnail: imagen2,
          sourceUrl: welgata}}})
   
