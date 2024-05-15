@@ -11,7 +11,7 @@ contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: nul
 title: 'MonkeyBot',
 body: 'MonkeyBot',         
 previewType: 0, thumbnail: fs.readFileSync("./media/menus/Menu3.jpg"),
-sourceUrl: `https://www.instagram.com/ceogeripium.dzn`}}}) 
+sourceUrl: `https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb`}}}) 
  try {
 const mediaa = await ytPlay(text);
 const audiocore = mediaa.result2?.[0]?.audio || mediaa.result2?.[1]?.audio || mediaa.result2?.[2]?.audio || null;
@@ -30,7 +30,7 @@ contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: nul
 title: 'MonkeyBot',
 body: 'MonkeyBot',         
 previewType: 0, thumbnail: fs.readFileSync("./media/menus/Menu3.jpg"),
-sourceUrl: `https://www.instagram.com/ceogeripium.dzn`}}})
+sourceUrl: `https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb`}}})
 try {
 const mediaa = await ytPlayVid(text);
 const aa_2 = await conn.sendMessage(m.chat, {video: {url: mediaa.result}, fileName: `error.mp4`, caption: `${wm}`, thumbnail: mediaa.thumb, mimetype: 'video/mp4'}, {quoted: m});
@@ -138,7 +138,7 @@ contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: nul
 title: 'MonkeyBot',
 body: 'MonkeyBot',         
 previewType: 0, thumbnail: fs.readFileSync("./media/menus/Menu3.jpg"),
-sourceUrl: `https://www.instagram.com/ceogeripium.dzn`}}}) 
+sourceUrl: `https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb`}}}) 
   
 let res = await fetch("https://violetics.pw/api/media/youtube-play?apikey=beta&query="+text)
 //https://leyscoders-api.herokuapp.com/api/playmp3?q=lebih%20baik%20darinya&apikey=Your_Key
@@ -151,7 +151,7 @@ contextInfo: { externalAdReply :{ mediaUrl: null, mediaType: 1, description: nul
 title: 'MonkeyBot',
 body: 'MonkeyBot',         
 previewType: 0, thumbnail: fs.readFileSync("./media/menus/Menu3.jpg"),
-sourceUrl: `https://www.instagram.com/ceogeripium.dzn`}}})
+sourceUrl: `https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb`}}})
   
 let res = await fetch("https://violetics.pw/api/media/youtube-play?apikey=beta&query="+text) 
 let json = await res.json()
