@@ -11,7 +11,7 @@ import { en, es, id, ar, pt, fr, hi } from "./lib/idiomas/total-idiomas.js"
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 
 global.owner = [
-["5215625775955", 'Richetti', true], //Richetti
+["5215625775955", 'Monovan', true], //Richetti
 ["5215625775955"], 
 ["5215625775955"], 
 ["5215625775955"], 
@@ -143,7 +143,7 @@ global.nnnttt3 = 'https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb' //Grupo 8 CO
 global.nnnttt4 = 'https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb' //Grupo 9 COL
 global.nnnttt5 = 'https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb' //A.T.M.M
 global.paypal = 'https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb'
-global.asistencia = 'Wa.me/56945086055' //Dudas? escríbeme...
+global.asistencia = 'Wa.me/525625768269' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -183,7 +183,7 @@ global.wait = "*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*"
 global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*"
 global.waittt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*"
 global.waitttt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▬▬▭*"
-global.nomorown = "56945086055"
+global.nomorown = "525625768269"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"];
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
