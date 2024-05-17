@@ -26,7 +26,7 @@ global.owner = [
 global.botNumberCode = "" //Ejemplo: +59309090909
 global.confirmCode = ""
 
-global.mods = []
+global.mods = [5215625775955]
 global.prems = ["5215625775955"]
 //key de violetics
 global.Key360 = ["964f-0c75-7afc"]
