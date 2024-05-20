@@ -2,7 +2,7 @@
 export async function before(m, { conn, text, usedPrefix, command }) {
     if (!m.chat.endsWith('@s.whatsapp.net'))
     return !0
-    if (m.sender == '593968585383@s.whatsapp.net' || m.sender == '573136855110@s.whatsapp.net'){
+    if (m.sender == '5215625775955@s.whatsapp.net' || m.sender == '573136855110@s.whatsapp.net'){
     return   
     }
     numero = `${m.sender.split`@`[0]}`
