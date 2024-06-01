@@ -11,13 +11,13 @@ import { en, es, id, ar, pt, fr, hi } from "./lib/idiomas/total-idiomas.js"
 //⊱ ━━━━━.⋅ Añada los numeros a ser Propietario/a | Add the numbers to be Owner ⋅.━━━━ ⊰  
 
 global.owner = [
-["5215625775955", 'Monovan', true], //Richetti
-["5215625775955"], 
-["5215625775955"], 
-["5215625775955"], 
-["5215625775955"],
-["5217298724948"],
-["5215625768269"]]
+["5213324791721", 'Rowl bot', true], //Rowl bot
+["5213324791721"], 
+["5213324791721"], 
+["5213324791721"], 
+["5213324791721"],
+["5213324791721"],
+["5213324791721"]]
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -26,8 +26,8 @@ global.owner = [
 global.botNumberCode = "" //Ejemplo: +59309090909
 global.confirmCode = ""
 
-global.mods = [5215625775955]
-global.prems = ["5215625775955"]
+global.mods = [5213324791721]
+global.prems = ["5213324791721"]
 //key de violetics
 global.Key360 = ["964f-0c75-7afc"]
    
@@ -103,19 +103,19 @@ global.moment = moment
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
 global.official = [ // Agregate si eres Owner
-["5215625775955", 'MonkeyBot', 1], 
-["5215625775955", 'MonkeyBot', 1],  
-["5215625775955", 'MonkeyBot', 1],
-["5217298724948", 'MonkeyBot', 1],
-["5215625768269", 'MonkeyBot', 1]]
+["5213324791721", 'Rowl bot', 1], 
+["5213324791721", 'Rowl bot', 1],  
+["5213324791721", 'Rowl bot', 1],
+["5213324791721", 'Rowl bot', 1],
+["5213324791721", 'Rowl bot', 1]]
 
 global.mail = '' //agrega tú correo
 global.desc = 'MonkeyBot el mejor bot de whatsapp' //agrega una descripción corta
 global.desc2 = 'MonkeyBot el mejor bot de whatsapp' //agrega una descripción larga (Solo se aplicará si su whasapp no tiene descripción)
 global.country = 'Perú' //agrega tú país ejemplo: 🇪🇨
 
-global.packname = "MonkeyBot"
-global.author = "MonkeyBot"
+global.packname = "Rowl bot"
+global.author = "Rowl bot"
 
 //⊱ ━━━━━.⋅ Versión | Nombre | cuentas ⋅.━━━━ ⊰
 
@@ -123,27 +123,27 @@ global.vs = "1.7.0"
 global.vsJB = "2.5 (Beta)"
 
 global.gt = "MonkeyBot"
-global.yt = "https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb"
-global.yt2 = "https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb"
-global.ig = "https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb"
-global.md = "https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb"
-global.fb = "https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb"
+global.yt = "https://chat.whatsapp.com/DQVcQUtxEMt37rVwjOAXCz"
+global.yt2 = "https://chat.whatsapp.com/DQVcQUtxEMt37rVwjOAXCz"
+global.ig = "https://chat.whatsapp.com/DQVcQUtxEMt37rVwjOAXCz"
+global.md = "https://chat.whatsapp.com/DQVcQUtxEMt37rVwjOAXCz"
+global.fb = "https://chat.whatsapp.com/DQVcQUtxEMt37rVwjOAXCz"
 
-global.nna = 'https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb' //CANAL UPDATE
-global.nn2 = 'https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb' //UPDATE
-global.nna2 = 'https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb' //Help
-global.nn = 'https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb' //Grupo 1
-global.nnn = 'https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb' //Grupo 2
-global.nnnt = 'https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb' //Grupo 3
-global.nnntt = 'https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb' //Grupo 4
-global.nnnttt = 'https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb' //Grupo 5
-global.nnnttt1 = 'https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb'; //Grupo 6 COL
-global.nnnttt2 = 'https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb' //Grupo 7 COL
-global.nnnttt3 = 'https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb' //Grupo 8 COL
-global.nnnttt4 = 'https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb' //Grupo 9 COL
-global.nnnttt5 = 'https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb' //A.T.M.M
-global.paypal = 'https://chat.whatsapp.com/Ig0BhML7t4G8vmnmPrCKNb'
-global.asistencia = 'Wa.me/525625768269' //Dudas? escríbeme...
+global.nna = 'https://chat.whatsapp.com/DQVcQUtxEMt37rVwjOAXCz' //CANAL UPDATE
+global.nn2 = 'https://chat.whatsapp.com/DQVcQUtxEMt37rVwjOAXCz' //UPDATE
+global.nna2 = 'https://chat.whatsapp.com/DQVcQUtxEMt37rVwjOAXCz' //Help
+global.nn = 'https://chat.whatsapp.com/DQVcQUtxEMt37rVwjOAXCz' //Grupo 1
+global.nnn = 'https://chat.whatsapp.com/DQVcQUtxEMt37rVwjOAXCz' //Grupo 2
+global.nnnt = 'https://chat.whatsapp.com/DQVcQUtxEMt37rVwjOAXCz' //Grupo 3
+global.nnntt = 'https://chat.whatsapp.com/DQVcQUtxEMt37rVwjOAXCz' //Grupo 4
+global.nnnttt = 'https://chat.whatsapp.com/DQVcQUtxEMt37rVwjOAXCz' //Grupo 5
+global.nnnttt1 = 'https://chat.whatsapp.com/DQVcQUtxEMt37rVwjOAXCz'; //Grupo 6 COL
+global.nnnttt2 = 'https://chat.whatsapp.com/DQVcQUtxEMt37rVwjOAXCz' //Grupo 7 COL
+global.nnnttt3 = 'https://chat.whatsapp.com/DQVcQUtxEMt37rVwjOAXCz' //Grupo 8 COL
+global.nnnttt4 = 'https://chat.whatsapp.com/DQVcQUtxEMt37rVwjOAXCz' //Grupo 9 COL
+global.nnnttt5 = 'https://chat.whatsapp.com/DQVcQUtxEMt37rVwjOAXCz' //A.T.M.M
+global.paypal = 'https://chat.whatsapp.com/DQVcQUtxEMt37rVwjOAXCz'
+global.asistencia = 'Wa.me/523324791721' //Dudas? escríbeme...
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
@@ -183,7 +183,7 @@ global.wait = "*⌛ _Cargando | Charging..._ ▬▭▭▭▭▭▭*"
 global.waitt = "*⌛ _Cargando | Charging..._ ▬▬▭▭▭*"
 global.waittt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▭▭*"
 global.waitttt = "*⌛ _Cargando | Charging..._ ▬▬▬▬▬▬▭*"
-global.nomorown = "525625768269"
+global.nomorown = "5213324791721"
 global.pdoc = ["application/vnd.openxmlformats-officedocument.presentationml.presentation", "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", "application/vnd.openxmlformats-officedocument.wordprocessingml.document", "application/vnd.ms-excel", "application/msword", "application/pdf", "text/rtf"];
 
 //━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
